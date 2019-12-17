@@ -1,0 +1,37 @@
+body {
+    background-color: cadetblue;
+    color: white;
+    font-family: American Typewriter;
+    font-size: 17pX; 
+}
+h1,h2,h3 {
+	font-family: courier;
+    
+}
+
+h1 {
+    color: white;
+    font-family: helvetica;
+    font-weight: 400;
+    letter-spacing: 10px;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+h2 {
+	color: black;
+	font-size: 24pX
+	font-weight: lighter;
+}
+a {
+	text-decoration: none;
+	color: black 
+}
+a :hover {
+	color: yellow 
+}
+
+
+}
+
+
+
